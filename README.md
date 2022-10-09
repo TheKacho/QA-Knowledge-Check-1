@@ -20,8 +20,8 @@ The website I have chosen for this www.ebay.com .
 
 
 | Verify |
--verify that the cart page shows the necessary links and information prior to proceeding 
--the product should be successfully added to the cart in the cart icon as the number 1 should be displayed
+- verify that the cart page shows the necessary links and information prior to proceeding 
+- the product should be successfully added to the cart in the cart icon as the number 1 should be displayed
 
 
 | Result |
