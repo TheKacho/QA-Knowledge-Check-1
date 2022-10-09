@@ -124,16 +124,16 @@ The website I have chosen for this www.ebay.com .
 -  proceed to checkout page with payment/shipping options
 
 | Verify |
--  check that the page is launched while the page says "Hello, guest" on top of the page
+-  check that the page is launched while the page says "Hello, Guest" on top of the page
 -  check that the following pdp page shows the payment and shipping options to the user
 -  the page then should show the user the option to sign in or continue as guest 
 -  the user should then successfully go to the checkout page with the product
  
 | Result |
--   user goes to checkout as a Guest
+-   user goes to checkout as a guest
 
 ------
-|Case TSC8| Checkout from shopping cart with registered account'
+|Case TSC8| Checkout from shopping cart with registered account
 
 | Steps |
 - go to eBay and sign in with registered account
@@ -156,23 +156,23 @@ The website I have chosen for this www.ebay.com .
 
 | Steps |
 - select product and add it to cart
-- and use corresponding discount coupon in specified field while in the checkout
+- and use corresponding discount promo code in specified field while in the checkout
 
 | Verify |
-- check to see if the coupon applied should deduct the product price correctly
+- check to see if the promo applied should deduct the product price correctly
 
-- Result: Coupon is applied to the product price
+- Result: Promo is applied to the product price
 
 ------
 |Case TSC10| - duplicate discount promo codes
 
 |Steps|
 - select product and add to cart
-- apply the same discount coupon code (used from the same product earlier) while in checkout
+- apply the same discount promo code (used from the same product earlier) while in checkout
 
 
 |Verify|
-- check to see if an error message pops up that states "This coupon has already been apploed."
+- check to see if an error message pops up that states "This promo has already been used."
 
 | Result |
-- A pop-up message displays to user saying "This Coupon 
+- A pop-up message displays to user saying "This Promo has already been used." 
